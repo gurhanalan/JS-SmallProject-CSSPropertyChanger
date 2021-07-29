@@ -1,17 +1,17 @@
 # CSS Property Changer
 
-[This project](https://gurhanalan.github.io/JS-SmallProject-CSSProperyChanger/) is a small app which the user can change the position, color, shape and size of a box by click the control buttons.
+[This project](https://gurhanalan.github.io/JS-SmallProject-CSSPropertyChanger/) is a small app which the user can change the position, color, shape and size of a box by click the control buttons.
 
 ## Table of contents
 
--   [CSS Property Changer](#css-property-changer)
-    -   [Table of contents](#table-of-contents)
-    -   [Overview](#overview)
-        -   [The challenge](#the-challenge)
-        -   [Screenshot](#screenshot)
-        -   [Links](#links)
-    -   [My process](#my-process)
-        -   [Built with](#built-with)
+- [CSS Property Changer](#css-property-changer)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
 
 ## Overview
 
@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Live Website](https://gurhanalan.github.io/JS-SmallProject-CSSProperyChanger/)
+-   Solution URL: [Live Website](https://gurhanalan.github.io/JS-SmallProject-CSSPropertyChanger/)
 
 ## My process
 
